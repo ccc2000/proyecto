@@ -1,0 +1,252 @@
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\CrudUbicaciones.dll.config
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\CrudUbicaciones.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\CrudUbicaciones.pdb
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csc.exe
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csc.exe.config
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csc.rsp
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csi.exe
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csi.exe.config
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csi.rsp
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.AppContext.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Console.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.Compression.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Net.Http.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.ValueTuple.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\vbc.exe
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\vbc.exe.config
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\vbc.rsp
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.csproj.CoreCompileInputs.cache
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.csproj.CopyComplete
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.pdb
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.csprojAssemblyReference.cache
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\DAL.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\DLL.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\DAL.pdb
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\CrudUbicaciones\bin\DLL.pdb
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\CrudUbicaciones.dll.config
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\CrudUbicaciones.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\CrudUbicaciones.pdb
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csc.exe
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csc.exe.config
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csc.rsp
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csi.exe
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csi.exe.config
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csi.rsp
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.AppContext.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Console.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.Compression.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Net.Http.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.ValueTuple.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\vbc.exe
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\vbc.exe.config
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\vbc.rsp
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\DAL.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\DLL.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\DAL.pdb
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\DLL.pdb
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.csprojAssemblyReference.cache
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.csproj.CoreCompileInputs.cache
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.csproj.CopyComplete
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.dll
+C:\Users\CristhianCoria\Desktop\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.pdb
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\CrudUbicaciones.dll.config
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\CrudUbicaciones.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\CrudUbicaciones.pdb
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csc.exe
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csc.exe.config
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csc.rsp
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csi.exe
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csi.exe.config
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csi.rsp
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.AppContext.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Console.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.Compression.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Net.Http.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.ValueTuple.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\vbc.exe
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\vbc.exe.config
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\vbc.rsp
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\DAL.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\DLL.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\DAL.pdb
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\DLL.pdb
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.csprojAssemblyReference.cache
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.csproj.CoreCompileInputs.cache
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.csproj.CopyComplete
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.pdb
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\CrudUbicaciones.dll.config
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\CrudUbicaciones.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\CrudUbicaciones.pdb
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csc.exe
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csc.exe.config
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csc.rsp
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csi.exe
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csi.exe.config
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\csi.rsp
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.AppContext.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Console.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.Compression.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Net.Http.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.ValueTuple.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\vbc.exe
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\vbc.exe.config
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\vbc.rsp
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\DAL.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\DLL.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\DAL.pdb
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\DLL.pdb
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.csprojAssemblyReference.cache
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.csproj.CoreCompileInputs.cache
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.csproj.CopyComplete
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.dll
+C:\Users\CristhianCoria\Desktop\ProyectosC\UbicacionesWEB Nuevos datos\CrudUbicaciones\CrudUbicaciones\obj\Debug\CrudUbicaciones.pdb

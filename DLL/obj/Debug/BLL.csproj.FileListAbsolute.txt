@@ -1,0 +1,6 @@
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\DLL\bin\Debug\DLL.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\DLL\bin\Debug\DLL.pdb
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\DLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\DLL\obj\Debug\DLL.dll
+C:\Users\CristhianCoria\source\repos\CrudUbicaciones\DLL\obj\Debug\DLL.pdb
